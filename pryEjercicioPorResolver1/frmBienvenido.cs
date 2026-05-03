@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace pryEjercicioPorResolver1
 {
-    public partial class frmLogin : Form
+    public partial class frmBienvenido : Form
     {
-        public frmLogin()
+        public frmBienvenido()
         {
             InitializeComponent();
-        }
-
-        private void btnAceptar_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
